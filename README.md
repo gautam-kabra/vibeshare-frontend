@@ -2,6 +2,8 @@
 
 VibeShare is a premium, high-performance social ecosystem designed for depth and connection. Built with a modern tech stack, it offers a seamless experience for sharing pulses, discovering communities, and analyzing social trends in real-time.
 
+**🌐 Live Demo: [https://vibeshare-frontend.vercel.app/](https://vibeshare-frontend.vercel.app/)**
+
 <p align="center">
   <img src="./screenshots/logo.png" alt="VibeShare Logo" width="120px"/>
 </p>
