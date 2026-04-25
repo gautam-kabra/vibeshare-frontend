@@ -19,11 +19,11 @@ VibeShare is a premium, high-performance social ecosystem designed for depth and
 
 | Landing Page | Feed & Trending |
 |:---:|:---:|
-| ![Landing Page](./screenshots/landing.png) | ![Trending Vibes](./screenshots/trending.png) |
+| ![Landing Page](./screenshots/home.png) | ![Trending Vibes](./screenshots/trending.png) |
 
 | Profile View | Create Pulse |
 |:---:|:---:|
-| ![Profile Page](./screenshots/profile.png) | ![Create Page](./screenshots/create.png) |
+| ![Profile Page](./screenshots/profile.png) | ![Create Page](./screenshots/upload.png.png) |
 
 ## 🛠️ Tech Stack
 
