@@ -3,7 +3,7 @@
 VibeShare is a premium, high-performance social ecosystem designed for depth and connection. Built with a modern tech stack, it offers a seamless experience for sharing pulses, discovering communities, and analyzing social trends in real-time.
 
 <p align="center">
-  <img src="https://res.cloudinary.com/demo/image/upload/v1611000000/sample.jpg" alt="VibeShare Logo" width="120px"/>
+  <img src="./src/img/illustrations/logo.png" alt="VibeShare Logo" width="120px"/>
 </p>
 
 ## ✨ Features
